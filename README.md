@@ -43,8 +43,6 @@ This is a web based application developed for health related based website in In
 
 ### Services -
 
-### health bot -
-
 
 ## Tech Stack 💻
 
