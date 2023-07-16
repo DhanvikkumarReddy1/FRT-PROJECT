@@ -8,7 +8,7 @@ This is a web based application developed for health related based website in In
 **Project Link** - https://nice-wave-0f7800c00.3.azurestaticapps.net/
 
 
-**Demo Video Link** -  
+**Demo Video Link** -  https://youtu.be/tbD-Ck40EMU
 
 **Azure technologies used for project**
 
