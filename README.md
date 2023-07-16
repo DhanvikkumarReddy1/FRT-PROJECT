@@ -25,6 +25,16 @@ This is a web based application developed for health related based website in In
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots 📸
+
+![image](https://github.com/DhanvikkumarReddy1/FRT-PROJECT/assets/132347161/9f028970-ff91-48b7-89da-507e841b4bb1)
+
+
+
+
+![image](https://github.com/DhanvikkumarReddy1/FRT-PROJECT/assets/132347161/3981ae34-f8f5-40a2-9599-02cfaf70d13a)
+
+
+
 ### Home page -   
 
 ### About Us -
