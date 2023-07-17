@@ -26,6 +26,19 @@ This is a web based application developed for health related based website in In
 
 ## Screenshots 📸
 
+
+![Screenshot (115)](https://github.com/DhanvikkumarReddy1/FRT-PROJECT/assets/132347161/34ab48d5-ee30-4b64-8548-9b0959da30df)
+![Screenshot (116)](https://github.com/DhanvikkumarReddy1/FRT-PROJECT/assets/132347161/ad14e42e-a5c5-48a3-8622-75c02c7bcfeb)
+![Screenshot (117)](https://github.com/DhanvikkumarReddy1/FRT-PROJECT/assets/132347161/4f30c1e7-daac-41ac-a905-03e5e131a5f1)
+
+
+![Screenshot (114)](https://github.com/DhanvikkumarReddy1/FRT-PROJECT/assets/132347161/d09d9162-ba2b-4e9e-a48d-52b776097cae)
+
+
+
+
+
+
 ![image](https://github.com/DhanvikkumarReddy1/FRT-PROJECT/assets/132347161/9f028970-ff91-48b7-89da-507e841b4bb1)
 
 
